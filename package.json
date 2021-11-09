@@ -45,6 +45,7 @@
     "ember-cli-sri": "^2.1.1",
     "ember-cli-terser": "^4.0.1",
     "ember-data": "~3.26.0",
+    "ember-element-helper": "phorest/ember-element-helper#a82c9c63ca0147306a190bc1c037c817ab4bb863",
     "ember-export-application-global": "^2.0.1",
     "ember-fetch": "^8.0.4",
     "ember-headlessui": "GavinJoyce/ember-headlessui#0bed280c04c9c751835ac9bd0c7fbf9ef7046729",
